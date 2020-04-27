@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ngrx-effect-with-debounce"
+    }
+  },
+  "defaultProject": "ngrx-effect-with-debounce",
+  "cli": {
+    "analytics": "3427c933-a76a-4d89-b169-42c133bb12f0"
+  }
 }
